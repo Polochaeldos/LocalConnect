@@ -43,8 +43,6 @@ next-env.d.ts
 /src/contexts
 /src/app/login
 /src/app/register
-/src/app/provider
-/src/app/providers
 /src/app/services
 /src/components
 
